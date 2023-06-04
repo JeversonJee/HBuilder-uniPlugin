@@ -1,0 +1,16 @@
+PODS:
+  - jj-ssemodule (0.1.0)
+
+DEPENDENCIES:
+  - jj-ssemodule (from `./custom-plugins/jj-ssemodule`)
+
+EXTERNAL SOURCES:
+  jj-ssemodule:
+    :path: "./custom-plugins/jj-ssemodule"
+
+SPEC CHECKSUMS:
+  jj-ssemodule: c6323c2d7ffee2ccc2e4a303380313eb219465ba
+
+PODFILE CHECKSUM: 3b51f01b73a34f75a5c654130d0e742cc480c45c
+
+COCOAPODS: 1.12.0
